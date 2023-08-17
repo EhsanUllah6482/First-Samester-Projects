@@ -1,0 +1,13 @@
+MovieName	Time	Screentype	category	price
+1			1			1			1		1
+2			2			2			2		2
+3			3			3			3		3
+MovieName	Time	Screentype	category	price
+MovieName	Time	Screentype	category	price
+1			1			1			1		1
+2			2			2			2		2
+3			3			3			3		3
+MovieName	Time	Screentype	category	price
+jawan			8_pm_to_9_pm			edsfsf			vsdfa		bwr
+pathan			vwswregt			vsd			vwsrgt		vwer
+gweewgew			vweg			vwge			gvwe		vwe
